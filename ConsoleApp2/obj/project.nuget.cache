@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgZBSlcAlhUW5nGkPgmdxVLYlQ9ft2znav2K5s0xD0qEWxXx89J+LJrdHgf7DiwzjQ+6KvOPIYLDAfsEDSGKnw==",
+  "success": true,
+  "projectFilePath": "/home/laptop/RiderProjects/num2/ConsoleApp2/ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "/home/laptop/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

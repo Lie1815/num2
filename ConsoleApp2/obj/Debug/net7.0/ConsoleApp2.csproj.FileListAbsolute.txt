@@ -1,0 +1,15 @@
+/home/laptop/RiderProjects/num2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2
+/home/laptop/RiderProjects/num2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.deps.json
+/home/laptop/RiderProjects/num2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.runtimeconfig.json
+/home/laptop/RiderProjects/num2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.dll
+/home/laptop/RiderProjects/num2/ConsoleApp2/bin/Debug/net7.0/ConsoleApp2.pdb
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.csproj.AssemblyReference.cache
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.AssemblyInfoInputs.cache
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.AssemblyInfo.cs
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.dll
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/refint/ConsoleApp2.dll
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.pdb
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/ConsoleApp2.genruntimeconfig.cache
+/home/laptop/RiderProjects/num2/ConsoleApp2/obj/Debug/net7.0/ref/ConsoleApp2.dll
